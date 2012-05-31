@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 使用github和jekyll来写博客 
+categories: tools
 ---
 
 {{ page.title }}
@@ -20,7 +21,7 @@ title: 使用github和jekyll来写博客
 
 * 安装rvm
 
-参考[使用rvm在Mac中安装ruby和rails](http://blog.prosight.me/index.php/2011/09/805)
+参考[使用rvm在Mac中安装ruby和rails](http://blog.prosight.me/index.php/2011/09/805).
 
 * rvm安装ruby
 
@@ -30,7 +31,7 @@ rvm install 1.9.2
 
 * 安装rubygems
 
- 参考[ruby-rails-leopard](http://hivelogic.com/articles/ruby-rails-leopard/)
+ 参考[ruby-rails-leopard](http://hivelogic.com/articles/ruby-rails-leopard/).
 
 * gem改成淘宝的镜像
 
@@ -47,13 +48,25 @@ gem install jekyll rdiscount
 
 * 搞模版
 
-我直接用github老大自家的[tom.preston-werner](https://github.com/mojombo/mojombo.github.com)
+直接用github老大的[tom.preston-werner](https://github.com/mojombo/mojombo.github.com).
 
-* 本地启动jekyll检查博客
+* 写博客
 
+我用[markdown](http://daringfireball.net/projects/markdown/syntax), 貌似github扩展了更多的md语法.
+另外要学习模版的用法[jekyll wiki](https://github.com/mojombo/jekyll/wiki/).
+
+* 本地博客
+
+启动jekyll:
 <pre>
 jekyll  --auto --server 
 </pre>
+访问[http://localhost:4000](http://localhost:4000), 可边修改边看效果.
+
+* 安装disqus
+
+把下面的js搞到jekyll post模版里:
+[Universal Code](http://docs.disqus.com/developers/universal/)
 
 * 上传到github
 
