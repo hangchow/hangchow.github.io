@@ -68,6 +68,10 @@ jekyll  --auto --server
 把下面的js搞到jekyll post模版里:
 [Universal Code](http://docs.disqus.com/developers/universal/)
 
+* 设置rss
+
+下次再搞
+
 * 上传到github
 
-本文就是这样生成的!
+你能看到本文,说明上传到github已经生效了!
