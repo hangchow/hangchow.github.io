@@ -1,17 +1,17 @@
 ---
 layout: post
-title: 通过nginx传递请求到本地tomcat 
+title: nginx代理tomcat 
+categories: tools
+tags: nginx centos tomcat
 ---
 
 {{ page.title }}
 ================
 
 <p class="meta">31 May 2012 - Shanghai</p>
-<p class="meta">centos5</p>
 
 最简单的方法就是修改/etc/nginx/nginx.conf,增加
-
-<code> 
+<pre> 
   server {
     listen 80;
     server_name yourdomainname;
@@ -19,6 +19,6 @@ title: 通过nginx传递请求到本地tomcat
          proxy_pass http://localhost:8080;
     }
   }
-</code>
+</pre>
 
 8080是本地tomcat启动端口.

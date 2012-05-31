@@ -1,14 +1,14 @@
 ---
 layout: post
-title: 使用github和jekyll来写博客 
+title: github和jekyll写博客 
 categories: tools
+tags: jekyll github disqus blog
 ---
 
 {{ page.title }}
 ================
 
 <p class="meta">31 May 2012 - Shanghai</p>
-<p class="meta">macos 10.7.4</p>
 
 今天想写点东西,狗狗到几篇比较好的文章:
 
@@ -67,6 +67,10 @@ jekyll  --auto --server
 
 把下面的js搞到jekyll post模版里:
 [Universal Code](http://docs.disqus.com/developers/universal/)
+打开disqus的开发模式方便本地博客:
+<pre>
+var disqus_developer = 1;
+</pre>
 
 * 设置rss
 
