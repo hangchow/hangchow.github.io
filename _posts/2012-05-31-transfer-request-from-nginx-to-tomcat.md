@@ -1,6 +1,6 @@
 ---
 layout: post
-title: transfer request from nginx to tomcat 
+title: 通过nginx传递请求到本地tomcat 
 ---
 
 {{ page.title }}
