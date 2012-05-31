@@ -9,7 +9,7 @@ title: 使用github和jekyll来写博客
 <p class="meta">31 May 2012 - Shanghai</p>
 <p class="meta">macos 10.7.4</p>
 
-首先,狗狗到几篇比较好的文章, 扫描一下开始动手.
+今天想写点东西,狗狗到几篇比较好的文章:
 
  * [Publishing a Blog with GitHub Pages and Jekyll](http://blog.envylabs.com/2009/08/publishing-a-blog-with-github-pages-and-jekyll/)
  * [Getting Started With Jekyll](http://asymmetrical-view.com/2009/05/14/starting-wtih-jekyll.html)
