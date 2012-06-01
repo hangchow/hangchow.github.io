@@ -1,7 +1,6 @@
 ---
 layout: post
 title: nginx代理tomcat 
-categories: tools
 tags: nginx centos tomcat
 ---
 

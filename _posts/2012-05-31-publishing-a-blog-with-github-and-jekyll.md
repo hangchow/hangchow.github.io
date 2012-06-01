@@ -1,7 +1,6 @@
 ---
 layout: post
 title: github和jekyll写博客 
-categories: tools
 tags: jekyll github disqus blog
 ---
 
