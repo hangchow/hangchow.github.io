@@ -22,7 +22,7 @@ tags: jekyll github disqus blog
 
 参考[使用rvm在Mac中安装ruby和rails](http://blog.prosight.me/index.php/2011/09/805).
 
-* rvm安装ruby
+* rvm安装ruby, 版本高点就行
 
 <pre>
 rvm install 1.9.2
@@ -35,14 +35,14 @@ rvm install 1.9.2
 * gem改成淘宝的镜像
 
 <pre>
-sudo gem sources --remove http://rubygems.org/ 
-sudo gem sources -a http://ruby.taobao.org/ 
+sudo gem sources --remove https://rubygems.org/ 
+sudo gem sources -a https://ruby.taobao.org/ 
 </pre>
 
 * 安装jekyll
 
 <pre>
-gem install jekyll rdiscount
+gem install jekyll rdiscount -V
 </pre>
 
 * 搞模版
