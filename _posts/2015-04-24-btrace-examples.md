@@ -10,7 +10,8 @@ tags: btrace java trace
 <p class="meta">24 Apr 2015 - Hangzhou</p>
 
 ### 业务代码
-```
+
+```java
 package com.jiuyan.lc.service.impl;
 public class LogServiceImpl {
 	public void incrementPicView(String picId, int count) {
@@ -22,7 +23,8 @@ public class LogServiceImpl {
 ### btrace
 
 判断入参
-```
+
+```java
 import static com.sun.btrace.BTraceUtils.*;
 import com.sun.btrace.annotations.*;
 
@@ -38,7 +40,8 @@ public class AssertPicView {
 ```
 
 QPS
-```
+
+```java
 import static com.sun.btrace.BTraceUtils.*;
 import com.sun.btrace.annotations.*;
 
@@ -61,7 +64,8 @@ public class CheckPicView {
 ```
 
 响应时间
-```
+
+```java
 import static com.sun.btrace.BTraceUtils.*;
 import com.sun.btrace.annotations.*;
 
@@ -90,12 +94,14 @@ public class GetLantency {
 ### 其他
 
 pom.xml
-```
+
+```xml
 		<dependency>
 			<groupId>com.sun.tools.btrace</groupId>
 			<artifactId>btrace-client</artifactId>
 			<version>1.2.3</version>
 		</dependency>
 ```
+
 参考
 https://kenai.com/projects/btrace/pages/UserGuide
