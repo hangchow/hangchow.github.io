@@ -103,5 +103,4 @@ pom.xml
 		</dependency>
 ```
 
-参考
-https://kenai.com/projects/btrace/pages/UserGuide
+[官网手册](https://kenai.com/projects/btrace/pages/UserGuide)
