@@ -16,7 +16,7 @@ public class LogServiceImpl {
 	}
 }
 ```
----
+
 ### btrace
 
 判断入参
@@ -85,7 +85,8 @@ public class GetLantency {
 }
 ```
 
----
+### 其他
+
 pom.xml
 ```
 		<dependency>
