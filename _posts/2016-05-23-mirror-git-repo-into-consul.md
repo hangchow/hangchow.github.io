@@ -16,15 +16,16 @@ tags: git consul
 
 备份consul
 -------------------------------------------------
-先安装[fsconsul](https://github.com/Cimpress-MCP/fsconsul)，编写备份配置文件fsconsul_config.json:
+安装go(注意设置$GOPATH)，再安装[fsconsul](https://github.com/Cimpress-MCP/fsconsul)，编写备份配置文件fsconsul_config.json:
 
 ```
 {
     "consul" : {
     	"addr": "10.0.40.111:8500", // 别写前缀http:
-        "dc": "dc1" 
+        "dc": "dc1",
+        "token" : "my-reader-token" // consul没有开启acl就不需要
     } ,
-    "runOnce" : true, // 只需要备份一次
+    "runOnce" : true, // 只备份一次
     "mappings" : [{
         "prefix": "/service", // 要备份的consul目录
         "path": "/Users/sean/workspace/study/fsconsul_back" // 本地备份目录
@@ -45,7 +46,7 @@ tags: git consul
 
 同步git
 ----------------------------------------
-找一台机器能pull上述的repo，安装nodejs和npm，再安装[git2consul](https://github.com/Cimpress-MCP/git2consul)。
+找一台机器能pull上述的repo，安装nodejs、npm，再安装[git2consul](https://github.com/Cimpress-MCP/git2consul)。
 
 编写配置:
 
@@ -93,9 +94,9 @@ tags: git consul
 
 未完成
 ------------------------
-git2consul在和git、consul交互的时候发生问题，会删除本地的repo，重新pull并提交consul。
-但开发、测试环境为了方便程序员，往往希望能直接修改consul，只要git上相同文件未被修改，
-就不会覆盖consul。 目前只能修改git2consul，参见后续博文。
+git2consul在和git、consul交互时发生错误，会删除本地的repo，重新pull并提交consul。
+但测试环境为了方便程序员临时修改，往往也需要直接修改consul，只要git上相同文件未被修改，
+就不会覆盖consul。 要实现这个需求目前只能修改git2consul源代码，参见后续博文。
 
 References
 -----------------------------
