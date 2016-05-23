@@ -21,7 +21,7 @@ tags: git consul
 ```
 {
     "consul" : {
-    	"addr": "10.0.40.111:8500", // 别写http: 
+    	"addr": "10.0.40.111:8500", // 别写前缀http:
         "dc": "dc1" 
     } ,
     "runOnce" : true, // 只需要备份一次
@@ -67,7 +67,7 @@ tags: git consul
         {
             "name":"service",
             "url":"git@your_git_lab_host:consul_config/keyvalue.git",
-            "include_branch_name" : false,
+            "include_branch_name" : false, //默认到consul是/name/branch这样的结构，去掉
             "branches":[
                 "master"
             ],
