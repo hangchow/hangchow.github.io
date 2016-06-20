@@ -12,7 +12,7 @@ tags: git consul
 背景
 ------------------------------------------------
 公司consul key/value已经使用了一段时间，本身没有修改记录和备份容灾，后者是git的强项。
-所以本文采用把项目的配置提交到指定的repo，用程序自动同步到consul的结构。
+所以本文采用把项目的配置提交到指定的gitlab repo，用程序自动同步到consul的结构。
 
 备份consul
 -------------------------------------------------
@@ -73,7 +73,7 @@ tags: git consul
                 "master"
             ],
             "hooks":[  
-                {  // gitlab上配置webhook
+                {  // gitlab上需要配置webhook
                       "type" : "gitlab",
                       "port" : "5252",
                       "url" : "/gitpoke"
