@@ -1,7 +1,6 @@
 ---
 layout: post
 title: effective tools 2019
-tags: effective tools 2019
 ---
 
 {{ page.title }}
@@ -9,46 +8,66 @@ tags: effective tools 2019
 
 ## 硬件篇
 -----------------------
-* [iPhone x](http://www.apple.com/cn/iphone)，128G 黑色
-* [iPad mini 4](https://www.apple.com/cn/ipad-mini)，128G Cellular 深空灰色
-* [iPad mini 5](https://www.apple.com/cn/ipad-mini)，256G Cellular 深空灰色, after 
-* [MacBookAir8,1](https://www.apple.com/cn/macbook-air/)，2018款，13inch, 视网膜显示屏
-* [Rain Design iLevel 2](https://www.amazon.com/Rain-Design-Adjustable-Notebook-Patented/dp/B00LSU4QD8)，iLevel二代，rMBP支架
-* [Magic Trackpad 2](https://www.apple.com/cn/shop/product/MJ2R2CH/A/magic-trackpad-2)， silver
-* [Kindle Paperwhite 2](https://www.amazon.cn/gp/product/B00CWPIDHI)
+* iPhone x 128G 黑色
+* iPad mini 4 128G Cellular 深空灰色
+* MacBookAir 2018款 13inch 视网膜显示屏
+* Rain Design iLevel 2 笔记本支架
+* apple 妙控板 2
+* Filco Minila Air 蓝牙单模红轴机械键盘
+* imac27 - 主力工作机
+* imac24 - 辅助机
+* Epson v330 scan
 
 
 ## 软件篇
 -----------------
 ### macos
-* [印象笔记](https://www.yinxiang.com)，¥148/ 年，高级帐户，知识库
-* [iTerm2](https://www.iterm2.com)，终端
-* [Sublime Text 3](https://www.sublimetext.com)，主题是 [Solarized Light](https://github.com/braver/Solarized)
-* [Reeder 3](http://reederapp.com/mac)，¥68，RSS 阅读利器
-* [MacDown](http://macdown.uranusjr.com)，简单Markdown 编辑器
-* [Atom](https://atom.io/)，草鸡强大Markdown编辑器
-* [网易云音乐](http://music.163.com/#/download)，音乐
-* [SourceTree](https://www.sourcetreeapp.com)，免费，git 辅助软件
+* [印象笔记](https://www.yinxiang.com) ¥148
+* [Reeder3](http://reederapp.com/mac) ¥68 RSS reader
+* [iTerm2](https://www.iterm2.com)
+* [Office](https://www.office.com/) Word Excel PowerPoint
+* [VSCode](http://macdown.uranusjr.com)
+* [SecureCRT](https://www.vandyke.com/products/securecrt/)
+* [MysqlWorkbench](https://dev.mysql.com/downloads/workbench/)
+* [IDEA](https://www.jetbrains.com/idea/)
+* [SourceTree](https://www.sourcetreeapp.com)
+* [Enpass](https://www.enpass.io/)
+* [DeleteApps]()
+* [RemoteDesktop](https://www.apple.com/remotedesktop/)
+* [ShadowsocksX](https://www.emptyus.com/index.php)
+* [PixelmatorPro](https://www.pixelmator.com/pro/)
+* [Snip](https://snip.qq.com/)
+* [EdrawMax](https://www.edrawsoft.com/edraw-max.php)
+* [网易云音乐](http://music.163.com/#/download)
+* [富途牛牛](https://hk.futu5.com/)
+* [Pocket](https://app.getpocket.com/)
+* [微信](https://mac.weixin.qq.com/)
+* [百度网盘](https://pan.baidu.com)
+* [爱奇艺](https://www.iqiyi.com/)
+* [优酷](https://www.youku.com/)
+* [腾讯视频](https://v.qq.com/)
+* [VLC](https://www.videolan.org/)
+* [Vuze](https://www.vuze.com/)
+* [迅雷](https://www.xunlei.com/)
+* [GoogleEarthPro](https://www.google.com/intl/zh-CN_ALL/earth/versions/#earth-pro)
 
+* [ParallelsDesktop](https://www.parallels.com)
+* [diablo3](https://us.diablo3.com/en/)
+
+### Chrome 插件
+* [Save to Pocket](https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj)
+* [Fatkun图片批量下载](https://chrome.google.com/webstore/detail/fatkun-batch-download-ima/nnjjahlikiabnchcpehcpkdeckfgnohf)
+* [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop)
+* [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa)
 
 ### ios
-* 皇室争霸，不解释
+* 皇室争霸
 * 51人品
 * 51信用卡管家
-* Authenticator
 * Shadowrocket
-* reeder
+* Reeder
 * Pocket
-* Kindle
 * 今日头条
-* QQ
 * 微信
 * Instagram
 * 高德地图
-
-### Chrome 插件
-* [Evernote Web Clipper](https://chrome.google.com/webstore/detail/evernote-web-clipper/pioclpoplcdbaefihamjohnefbikjilc)，印象笔记剪藏
-* [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop)，调试神器
-* [Smartshot](https://chrome.google.com/webstore/detail/smartshot-screen-capture/edjbamdongkhmagbpppagfjbcojajeae)，智能网页截图
-* [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg)，查看网站使用技术框架
-* [惠惠购物助手](https://chrome.google.com/webstore/detail/%E6%83%A0%E6%83%A0%E8%B4%AD%E7%89%A9%E5%8A%A9%E6%89%8B/ohjkicjidmohhfcjjlahfppkdblibkkb)，比价神器，网易出品
