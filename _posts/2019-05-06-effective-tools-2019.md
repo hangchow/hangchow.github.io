@@ -62,7 +62,6 @@ title: effective tools 2019
 
 ### ios
 * 皇室争霸
-* 51人品
 * 51信用卡管家
 * Shadowrocket
 * Reeder
