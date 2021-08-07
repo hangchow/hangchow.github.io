@@ -23,12 +23,13 @@ title: effective tools 2021
 ## 软件篇
 -----------------
 ### macos
-* [ShadowsocksX](https://www.emptyus.com/index.php)
+* [ShadowsocksX](https://www.emptyus.com/index.php) 付费
 * [ParallelsDesktop](https://www.parallels.com) 付费
 * [RemoteDesktop](https://www.apple.com/remotedesktop/)
 * [SecureCRT](https://www.vandyke.com/products/securecrt/)
 * [iTerm2](https://www.iterm2.com)
-* [DeleteApps]()
+* [Brew](https://brew.sh)
+* [DeleteApps](https://apps.apple.com/us/app/delete-apps-uninstaller/id1033808943)
 * [Enpass](https://www.enpass.io/)
 * [富途牛牛](https://hk.futu5.com/) 付费
 * [微信](https://mac.weixin.qq.com/)
@@ -37,6 +38,7 @@ title: effective tools 2021
 * [Pocket](https://app.getpocket.com/)
 * [Office](https://www.office.com/)
 * [EdrawMax](https://www.edrawsoft.com/edraw-max.php) 付费
+* [MindNode](https://apps.apple.com/cn/app/mindnode-mind-map-outline/id1289197285)
 * [PixelmatorPro](https://www.pixelmator.com/pro/)
 * [Snip](https://snip.qq.com/)
 * [SourceTree](https://www.sourcetreeapp.com)
