@@ -5,6 +5,7 @@ title: effective tools 2021
 
 {{ page.title }}
 ================
+<p class="meta">Aug 6, 2021 - Hangzhou</p>
 
 ## 硬件篇
 -----------------------
