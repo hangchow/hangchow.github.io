@@ -25,6 +25,7 @@ title: effective tools 2021
 -----------------
 ### macos
 * [ShadowsocksX](https://www.emptyus.com/index.php) 付费
+* [Istat Menu](https://bjango.com/mac/istatmenus/) 付费
 * [ParallelsDesktop](https://www.parallels.com) 付费
 * [RemoteDesktop](https://www.apple.com/remotedesktop/)
 * [SecureCRT](https://www.vandyke.com/products/securecrt/)
