@@ -5,9 +5,7 @@ tags: jekyll github disqus blog
 ---
 
 {{ page.title }}
-
-------
-版本更新:
+============
 <p class="meta">31 May, 2012 - Shanghai</p>
 <p class="meta">20 Aug, 2021 - Home, Hangzhou</p>
 
@@ -19,7 +17,7 @@ tags: jekyll github disqus blog
     <pre>
     brew install ruby
     </pre>
-    现在版本是3.0.2
+    现在版本是3.0.2。
 
 * 设置墙内ruby镜像库
 
@@ -32,24 +30,24 @@ tags: jekyll github disqus blog
     <pre>
     sudo gem install jekyll rdiscount -V
     </pre>
-    等待漫长的过程。
+    安装过程很漫长。
 
-* 选择模版
+* 下载模版
 
-    [tom.preston-werner](https://github.com/mojombo/mojombo.github.com)
+    本博客模板的源头找不到，可下载本博客代码，删掉_posts目录、更改disqus和rss后使用；或下载[The Hacker theme](https://github.com/pages-themes/hacker#usage)使用。
 
 * 写博客
 
     我用[markdown](http://daringfireball.net/projects/markdown/syntax), 貌似github扩展了更多的md语法.
-另外要学习模版的用法[jekyll wiki](https://github.com/mojombo/jekyll/wiki/).
+另外要学习模版的用法[jekyll wiki](https://github.com/mojombo/jekyll/wiki/)。
 
 * 本地效果
 
     启动jekyll:
     <pre>
-    jekyll serve 
+    jekyll serve --trace
     </pre>
-    访问[http://localhost:4000](http://localhost:4000), 可边修改边看效果.
+    访问[http://localhost:4000](http://localhost:4000), 可边修改边看效果。
 
 * 可选：安装disqus
 
