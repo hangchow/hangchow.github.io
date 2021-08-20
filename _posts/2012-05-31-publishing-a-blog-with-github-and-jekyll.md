@@ -47,7 +47,7 @@ tags: jekyll github disqus blog
 
     启动jekyll:
     <pre>
-    jekyll  --auto --server 
+    jekyll serve 
     </pre>
     访问[http://localhost:4000](http://localhost:4000), 可边修改边看效果.
 
