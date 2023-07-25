@@ -53,6 +53,7 @@ title: effective tools 2023
 * [Snip](https://snip.qq.com/)
 * [qBittorrent](https://www.fosshub.com/qBittorrent.html)
 * [VLC](https://www.videolan.org/)
+* [Pocket](https://getpocket.com/)
 * [GoogleEarthPro](https://www.google.com/intl/zh-CN_ALL/earth/versions/#earth-pro)
 * [百度网盘](https://pan.baidu.com)
 * [微信](https://mac.weixin.qq.com/)
@@ -62,7 +63,6 @@ title: effective tools 2023
 * [Save to Pocket](https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj)
 * [Fatkun图片批量下载](https://chrome.google.com/webstore/detail/fatkun-batch-download-ima/nnjjahlikiabnchcpehcpkdeckfgnohf)
 * [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb)
-* [MetaMask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn)
 
 ### 手机首屏
 * 时钟
