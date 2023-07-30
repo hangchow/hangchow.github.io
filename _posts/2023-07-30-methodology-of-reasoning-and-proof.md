@@ -6,7 +6,10 @@ title: methodology of reasoning and proof
 {{ page.title }}
 ================
 <p class="meta">JUL 30, 2023 - Hangzhou</p>
-一些材料
+今天和友人关于这件东西真伪的讨论，突然想整理下数学里的推理和证明
+![正面]((/images/2023-07-30/1.jpg){:height="" width="600px"})
+![反面]((/images/2023-07-30/2.jpg){:height="" width="600px"})
+
 
 - 虽然数学归纳法名字中有“归纳”，但是数学归纳法并非不严谨的归纳推理法，它属于完全严谨的演绎推理法。所有的数学证明都是演绎法。
 - [凌海燕频道](https://www.youtube.com/@user-sbxsdsyy/search?query=%E6%8E%A8%E7%90%86)
@@ -15,9 +18,9 @@ title: methodology of reasoning and proof
 下文的层级皆是包含的意思，如演绎推理含假设推理和矛盾推理，但可能还有其他的推理方式。
 
 ## 推理
-- 归纳推理
+- 归纳推理（大部分收藏品真伪鉴定逻辑）
     - 类比推理
-- 演绎推理
+- 演绎推理（数学证明的过程）
     - 假设推理
     - 矛盾推理
 
