@@ -22,8 +22,19 @@ title: fukuoka preview
 - 从大阪伊丹机场搭乘飞机至福冈机场仅需要 1 小时 15 分钟。 从新大阪搭乘新干线抵达博多站约需 2 小时 20 分钟。
 
 ## 市中心
-![google earch](/images/2023-07-28/fukuoka.jpg){:height="" width="600px"}
+![google earth](/images/2023-07-28/fukuoka.jpg){:height="" width="600px"}
 
 谷歌地图上比较显眼的
 - [大濠公园](https://www.japan-travel.cn/spot/2260/)
 - [雅虎巨蛋](https://www.japan-travel.cn/spot/2257/)
+
+## 天神和博多
+![apple map](/images/2023-07-28/fukuoka3.jpg){:height="" width="600px"}
+
+- [天神](https://www.japan-travel.cn/spot/2172/)
+- [博多](https://www.japan-travel.cn/spot/2173/)
+
+## 志贺岛
+![google earth](/images/2023-07-28/fukuoka2.jpg){:height="" width="600px"}
+
+[贺志岛](https://www.japan-travel.cn/spot/1971/)北端的舞能之滨
