@@ -21,6 +21,9 @@ title: fukuoka preview
 - 从东京的羽田机场到福冈机场仅需要 1 小时 45 分钟。从东京站搭乘 JR 东海道-山阳新干线到博多站仅需约 5 小时。
 - 从大阪伊丹机场搭乘飞机至福冈机场仅需要 1 小时 15 分钟。 从新大阪搭乘新干线抵达博多站约需 2 小时 20 分钟。
 
+## 气候
+[weather2visit](https://www.weather2visit.com/asia/japan/fukuoka-shi.htm)
+
 ## 市中心
 ![google earth](/images/2023-07-28/fukuoka.jpg){:height="" width="600px"}
 
