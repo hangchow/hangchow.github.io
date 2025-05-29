@@ -7,8 +7,7 @@ title: fukuoka preview
 ================
 <p class="meta">JUL 28, 2023 - Hangzhou</p>
 
-由于考虑日本经营签，并在上海和杭州能直航的几个城市里筛选，目前觉得福冈比较适合，
-特此做个记录。
+在上海和杭州能直航的日本城市里筛选旅游目的地，挨个记录。
 
 ## 福冈
 [wikipedia](https://zh.wikipedia.org/zh-tw/%E7%A6%8F%E5%B2%A1%E5%B8%82)
